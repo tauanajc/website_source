@@ -50,7 +50,7 @@ height = "500px" #""
   overlay_filter = 0.2  # Darken the image. Value in range 0-1.
 
 [[item]]
-  content = "Hover mouse for full video"
+  #content = "Hover mouse for full video"
   align = "right"  # Choose `center`, `left`, or `right`.
   overlay_img = "headers/IMG_8645.MOV.mp4"  # Image path relative to your `static/img/` folder.
   overlay_filter = 0.3  # Darken the image. Value in range 0-1.
@@ -70,10 +70,10 @@ height = "500px" #""
   overlay_img = "headers/Taking_photo.png"  # Image path relative to your `static/img/` folder.
   overlay_filter = 0.3  # Darken the image. Value in range 0-1.
 
-[[item]]
-  overlay_color = "#333"  # An HTML color value.
-  overlay_img = "headers/DSCF0040-lab.jpg"  # Image path relative to your `static/img/` folder.
-  overlay_filter = 0.3  # Darken the image. Value in range 0-1.
+#[[item]]
+#  overlay_color = "#333"  # An HTML color value.
+#  overlay_img = "headers/DSCF0040-lab.jpg"  # Image path relative to your `static/img/` folder.
+#  overlay_filter = 0.3  # Darken the image. Value in range 0-1.
 
 #[[item]]
 #  overlay_color = "#333"  # An HTML color value.

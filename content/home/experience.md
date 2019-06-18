@@ -36,13 +36,13 @@ date_format = "Jan 2006"
 #  * Deploying
 #  """
 
-[[experience]]
-  title = "Postdoctoral Fellow"
-  company = "Harvard University"
-  company_url = "https://giribetgroup.oeb.harvard.edu"
-  location = "Cambridge MA"
-  date_start = "2019-09-11"
-  date_end = "2019-12-15"
-  description = """"""
+#[[experience]]
+#  title = "Postdoctoral Fellow"
+#  company = "Harvard University"
+#  company_url = "https://giribetgroup.oeb.harvard.edu"
+#  location = "Cambridge MA"
+#  date_start = "2019-09-11"
+#  date_end = "2019-12-15"
+#  description = """"""
 
 +++

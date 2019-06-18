@@ -41,15 +41,18 @@ social:
 - icon: researchgate
   icon_pack: ai
   link: https://www.researchgate.net/profile/Tauana_Cunha
-- icon: cv
-  icon_pack: ai
-  link: post/TauanaCunha_CV.pdf  
-#- icon: orcid
-#  icon_pack: ai
-#  link: https://orcid.org/0000-0002-8493-2117
 - icon: github
   icon_pack: fab
   link: https://github.com/tauanajc
+- icon: orcid
+  icon_pack: ai
+  link: https://orcid.org/0000-0002-8493-2117
+- icon: lattes
+  icon_pack: ai
+  link: http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4245487P0
+- icon: cv
+  icon_pack: ai
+  link: post/TauanaCunha_CV.pdf
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/tauanajc

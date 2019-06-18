@@ -2,7 +2,7 @@
 title: "A congruent topology for deep gastropod relationships"
 date: 2019-03-01
 publishDate: 2019-06-16T22:45:55.139763Z
-authors: ["**Tauana Junqueira Cunha**", "Gonzalo Giribet"]
+authors: ["**Cunha, TJ**", "Giribet, G"]
 publication_types: ["2"]
 abstract: ""
 featured: true
