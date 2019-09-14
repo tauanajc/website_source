@@ -29,7 +29,7 @@ organizations:
 - name: Harvard University
   url: ""
 
-role: Recent PhD graduate
+role: Postdoctoral Fellow
 
 social:
 - icon: envelope-square
@@ -64,4 +64,4 @@ user_groups:
 ---
 
 <br>
-I am broadly interested in the biology and evolution of marine invertebrates, with gastropods as my main study system. I combine high-throughput molecular data, fossils, geographical distributions and shell morphology to study the evolutionary relationships of snail clades, their time of origin, biogeography, and the evolution of shell shape over geological time scales. I am a recent PhD graduate in [Gonzalo Giribet's Lab](https://giribetgroup.oeb.harvard.edu) at Harvard University, [OEB department](https://oeb.harvard.edu).
+I am broadly interested in the biology and evolution of marine invertebrates, with gastropods as my main study system. I combine high-throughput molecular data, fossils, geographical distributions and shell morphology to study the evolutionary relationships of snail clades, their time of origin, biogeography, and the evolution of shell shape over geological time scales. I am a recent PhD graduate and currently postdoctoral fellow in [Gonzalo Giribet's Lab](https://giribetgroup.oeb.harvard.edu) at Harvard University, [OEB department](https://oeb.harvard.edu).
