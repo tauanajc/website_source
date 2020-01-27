@@ -1,18 +1,21 @@
 # Theme metadata
-name = "Dark"
+name = "Default"
 
 # Is theme light or dark?
-light = light
+light = true
 
-# Primary (color links!)
+# Primary
 primary = "hsl(344°, 89%, 39%)"
 
 # Menu
+#menu_primary = "#fff"
+#menu_text = "#34495e"
+#menu_text_active = "#2962ff"
+#menu_title = "#2b2b2b"
 menu_primary = "rgb(20, 22, 34)"
 menu_text = "rgba(255,255,255,0.6)"
 menu_title = "#fff"
 menu_text_active = "hsl(344°, 89%, 39%)"
-
 
 # Home sections
 home_section_odd = "rgb(255, 255, 255)"
