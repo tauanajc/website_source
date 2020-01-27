@@ -2,6 +2,7 @@
 date: "2013-01-01T01:00:00Z"
 title: Benthic Ecology
 external_link: ""
+profile: false  # Show author profile?
 image:
   caption: 
   focal_point: top

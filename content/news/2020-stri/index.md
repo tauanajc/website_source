@@ -1,24 +1,23 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Untangling the spider’s web"
+title: "Postdoc at STRI"
 subtitle: ""
-summary: "My post in the blog [Evo Bites](https://evobites.com/2014/12/13/cunha_spider_webs) about the evolution of spider groups that produce orb-shaped (circular) webs!"
+summary: "Fresh start as a Postdoctoral Fellow at the Smithsonian Tropical Research Institute! **Click to learn more.**"
 authors: [admin]
 tags: []
 categories: []
-date: 2014-12-13T20:12:58-04:00
-lastmod: 2014-12-13T20:12:58-04:00
-featured: false
+date: 2020-01-10T14:00:00-04:00
+lastmod: 2020-01-10T14:00:00-04:00
+featured: true
 draft: false
-profile: false  # Show author profile?
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
   caption: ""
-  focal_point: ""
+  focal_point: "Right"
   preview_only: false
 
 # Projects (optional).
@@ -29,8 +28,4 @@ image:
 projects: []
 ---
 
-My post in the blog [Evo Bites](https://evobites.com/2014/12/13/cunha_spider_webs) about the evolution of spider groups that produce orb-shaped (circular) webs:
-
-<iframe src="https://evobites.com/2014/12/13/cunha_spider_webs"
-        width="100%" height="1000" frameborder="1">
-</iframe>
+Arrived in Panama to stay for two years as a Postdoctoral Fellow at the Smithsonian Tropical Research Institute! Keep an eye out to learn more about the predictive power of life history strategies over the dispersal capacity of marine snails.

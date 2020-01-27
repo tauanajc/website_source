@@ -5,6 +5,7 @@ external_link: ""
 image:
   caption: 
   focal_point: Smart
+profile: false  # Show author profile?
 links:
 #- icon: twitter
   #icon_pack: fab

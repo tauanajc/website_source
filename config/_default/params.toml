@@ -3,7 +3,7 @@
 
 # Color theme.
 #   Choose from `default`, `ocean`, `forest`, `dark`, `apogee`, `1950s`, `coffee`, `cupcake`, `strawberry`.
-color_theme = "strawberry"
+color_theme = "tauana_dark"
 # Enable users to switch between day and night mode?
 day_night = false
 
@@ -50,9 +50,9 @@ time_format = "15:04"
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "tauanacunha@g.harvard.edu"
-phone = ""
-address = "26 Oxford Street, Cambridge MA 02138 <br> MCZ Labs 510, Harvard University"
+email = "CunhaT@si.edu"
+phone = "+507-2128831"
+address = "Smithsonian Tropical Research Institute, Naos Marine and Molecular Laboratories, Bldg. 359, Naos Island, Panama"
 
 # Office hours: use `<br>` to insert a line break, or set to "" to remove office hours
 office_hours = ""#"""Monday 10:00 to 13:00<br>
@@ -88,8 +88,8 @@ contact_links = [
 #   3: OpenStreetMap (Mapbox)
 map = 0
 map_api_key = ""
-latitude = "42.379278"
-longitude = "-71.115203"
+latitude = "8.916047"
+longitude = "-79.532213"
 zoom = 15
 
 ############################

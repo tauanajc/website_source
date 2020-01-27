@@ -2,6 +2,7 @@
 date: "2017-01-01T01:00:00Z"
 title: Evolution of shell shape
 external_link: ""
+profile: false  # Show author profile?
 image:
   caption: 
   focal_point: Smart

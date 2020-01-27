@@ -15,7 +15,7 @@ education:
     institution: University of São Paulo
     year: 2011
 
-email: "tauanacunha@g.harvard.edu"
+email: "cunhat@si.edu"
 
 interests:
 - Phylogenomics
@@ -26,7 +26,7 @@ interests:
 
 name: Tauana J. Cunha
 organizations:
-- name: Harvard University
+- name: Smithsonian Tropical Research Institute
   url: ""
 
 role: Postdoctoral Fellow
@@ -34,7 +34,7 @@ role: Postdoctoral Fellow
 social:
 - icon: envelope-square
   icon_pack: fas
-  link: mailto:tauanacunha@g.harvard.edu #'#contact'
+  link: mailto:cunhat@si.edu #'#contact'
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=kUYfYlYAAAAJ
@@ -64,4 +64,4 @@ user_groups:
 ---
 
 <br>
-I am broadly interested in the biology and evolution of marine invertebrates, with gastropods as my main study system. I combine high-throughput molecular data, fossils, geographical distributions and shell morphology to study the evolutionary relationships of snail clades, their time of origin, biogeography, and the evolution of shell shape over geological time scales. I am a recent PhD graduate and currently postdoctoral fellow in [Gonzalo Giribet's Lab](https://giribetgroup.oeb.harvard.edu) at Harvard University, [OEB department](https://oeb.harvard.edu).
+I am broadly interested in the biology and evolution of marine invertebrates, with gastropods as my main study system. I combine high-throughput molecular data, geography, fossils and shell morphology to study the evolutionary relationships of snail clades, their time of origin, biogeography, population structure and the evolution of shell shape over geological time scales. I'm a Smithsonian Institution Postdoctoral Fellow at [STRI](https://stri.si.edu) in [Rachel Collin's Lab](https://collinlab.weebly.com), with a PhD from Harvard University in [Gonzalo Giribet's Lab](https://giribetgroup.oeb.harvard.edu).
