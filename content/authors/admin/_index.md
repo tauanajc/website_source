@@ -25,6 +25,7 @@ interests:
 - Shell Shape Evolution
 
 name: Tauana J. Cunha
+
 organizations:
 - name: Smithsonian Tropical Research Institute
   url: ""
@@ -63,5 +64,5 @@ user_groups:
 - Visitors
 ---
 
-<br>
+  
 I am broadly interested in the biology and evolution of marine invertebrates, with gastropods as my main study system. I combine high-throughput molecular data, geography, fossils and shell morphology to study the evolutionary relationships of snail clades, their time of origin, biogeography, population structure and the evolution of shell shape over geological time scales. I'm a Smithsonian Institution Postdoctoral Fellow at [STRI](https://stri.si.edu) in [Rachel Collin's Lab](https://collinlab.weebly.com), with a PhD from Harvard University in [Gonzalo Giribet's Lab](https://giribetgroup.oeb.harvard.edu).

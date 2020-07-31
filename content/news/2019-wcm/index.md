@@ -11,6 +11,7 @@ date: 2019-08-17T20:12:58-04:00
 lastmod: 2019-08-17T18:35:58-04:00
 featured: true
 draft: false
+profile: false
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

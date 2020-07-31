@@ -31,6 +31,9 @@ projects: []
 
 My post in the blog [Science in the News](http://sitn.hms.harvard.edu/flash/2016/were-the-first-animals-sponge-like-complexity-in-the-animal-tree-of-life) about the early divergences in the animal tree of life:
 
-<iframe src="http://sitn.hms.harvard.edu/flash/2016/were-the-first-animals-sponge-like-complexity-in-the-animal-tree-of-life"
-        width="100%" height="1000" frameborder="1">
+<iframe
+  src="http://sitn.hms.harvard.edu/flash/2016/were-the-first-animals-sponge-like-complexity-in-the-animal-tree-of-life"
+  width="90%"
+  height="1000px"
+  style="border:none;">
 </iframe>

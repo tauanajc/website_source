@@ -5,11 +5,11 @@
 
 widget = "blank"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = true  # Activate this widget? true/false
-weight = 97  # Order that this section will appear.
+active = false  # Activate this widget? true/false
+weight = 95  # Order that this section will appear.
 
 title = ""
-subtitle = "Twitter Feed [-follow](https://twitter.com/tauanajc)"
+subtitle = "Tweets by [tauanajc](https://twitter.com/tauanajc)"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -47,4 +47,6 @@ subtitle = "Twitter Feed [-follow](https://twitter.com/tauanajc)"
  css_class = ""
 +++
 
-<iframe src="https://www.powr.io/plugins/social-feed/view/20314926" style="width:100%;" height="403px" frameborder="0"></iframe>
+<iframe src="https://www.powr.io/plugins/social-feed/view/20314926" style="width:100%;" height="400px" frameborder="0"></iframe>
+
+<a class="twitter-timeline" href="https://twitter.com/tauanajc?ref_src=twsrc%5Etfw">Tweets by tauanajc</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
