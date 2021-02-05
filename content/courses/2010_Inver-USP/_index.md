@@ -2,8 +2,8 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Invertebrates"
-subtitle: "Teaching Fellow, University of São Paulo"
-summary: "Spring 2010"
+subtitle: "Teaching Fellow"
+summary: "University of São Paulo, 2010"
 authors: []
 tags: []
 categories: []

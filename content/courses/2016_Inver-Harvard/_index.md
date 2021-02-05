@@ -2,8 +2,8 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Biology and Evolution of Invertebrate Animals"
-subtitle: "Teaching Fellow, Harvard University"
-summary: "Spring 2015 & 2016"
+subtitle: "Teaching Fellow"
+summary: "Harvard University, Spring 2015 & 2016"
 authors: []
 tags: []
 categories: []

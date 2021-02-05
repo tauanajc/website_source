@@ -2,8 +2,8 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Invertebrate Zoology"
-subtitle: "Teaching Fellow, Harvard Extension School"
-summary: "Spring 2018"
+subtitle: "Teaching Fellow"
+summary: "Harvard Extension School, Spring 2018"
 authors: []
 tags: []
 categories: []

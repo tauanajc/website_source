@@ -2,8 +2,8 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Introduction to R"
-subtitle: "Instructor, Smithsonian Tropical Research Institute"
-summary: "2020"
+subtitle: "Instructor"
+summary: "Smithsonian Tropical Research Institute, 2020"
 authors: []
 tags: []
 categories: []

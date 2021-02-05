@@ -2,8 +2,8 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Phylogenetics and Phylogeography in the Era of Genomics"
-subtitle: "Teaching Fellow, Harvard University"
-summary: "Fall 2017"
+subtitle: "Teaching Fellow"
+summary: "Harvard University, Fall 2017"
 authors: []
 tags: []
 categories: []
