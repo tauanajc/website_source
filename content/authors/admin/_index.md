@@ -20,7 +20,7 @@ email: "cunhat@si.edu"
 interests:
 - Phylogenomics
 - Gastropoda / Marine Invertebrates
-- Evolutionary Biology
+- Evolutionary Genomics
 - Marine Biogeography
 - Shell Shape Evolution
 
@@ -64,5 +64,5 @@ user_groups:
 - Visitors
 ---
 
-  
-I am broadly interested in the biology and evolution of marine invertebrates, with gastropods as my main study system. I combine high-throughput molecular data, geography, fossils and shell morphology to study the evolutionary relationships of snail clades, their time of origin, biogeography, population structure and the evolution of shell shape over geological time scales. I'm a Smithsonian Institution Postdoctoral Fellow at [STRI](https://stri.si.edu) in [Rachel Collin's Lab](https://collinlab.weebly.com), with a PhD from Harvard University in [Gonzalo Giribet's Lab](https://giribetgroup.oeb.harvard.edu).
+
+I am an evolutionary biologist interested in the origin and maintenance of invertebrate diversity, with marine gastropods as my main study system. My research is based on fieldwork and museum collections, comprising phylogenomics, biogeography, population and evolutionary genomics. I'm a Smithsonian Institution Postdoctoral Fellow at [STRI](https://stri.si.edu) in [Rachel Collin's Lab](https://collinlab.weebly.com), with a PhD from Harvard University in [Gonzalo Giribet's Lab](https://giribetgroup.oeb.harvard.edu).

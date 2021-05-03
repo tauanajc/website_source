@@ -3,10 +3,10 @@
 widget = "blank"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = false  # Activate this widget? true/false
-weight = 66  # Order that this section will appear.
+weight = 65  # Order that this section will appear.
 
-title = "Gallery"
-subtitle = ""
+title = "Fieldwork"
+subtitle = "Click to see fieldwork locations and photos."
 +++
 
 {{< gallery >}}

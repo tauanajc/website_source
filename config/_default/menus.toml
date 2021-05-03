@@ -19,8 +19,8 @@
   weight = 30
 
 [[main]]
-  name = "SciComm"
-  url = "#posts"
+  name = "Fieldwork"
+  url = "gallery/"
   weight = 40
 
 [[main]]
@@ -28,10 +28,10 @@
   url = "courses/"
   weight = 50
 
-#[[main]]
-#  name = "Gallery"
-#  url = "#gallery"
-#  weight = 60
+[[main]]
+  name = "SciComm"
+  url = "#posts"
+  weight = 60
 
 [[main]]
   name = "NEWS"
