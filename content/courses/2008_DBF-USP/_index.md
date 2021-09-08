@@ -28,6 +28,6 @@ image:
 projects: []
 ---
 
-Spring 2008
+Spring 2008, University of São Paulo
 
-Code 0410113, [WEBSITE](http://www.ib.usp.br/inter/0410113)
+Code 0410113, [WEBSITE](https://dbf.ib.usp.br)

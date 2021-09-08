@@ -28,8 +28,10 @@ image:
 projects: []
 ---
 
-Spring 2015 & 2016
+Spring 2015 & 2016, Harvard University
 
 Code OEB51, [WEBSITE](https://canvas.harvard.edu/courses/10394)
+
+Instructors: Cassandra Extavour (2016), Gonzalo Giribet (2015)
 
 Introduction to invertebrate diversity. Covers anatomy, biology and evolutionary relationships of the main animal phyla including sponges, mollusks, annelids, arthropods, among others. Special emphasis is placed on understanding the broad diversity of animal forms and their adaptations to different ecosystems and how these shape animal evolution. Lectures are complemented with a mandatory weekly lab and a field trip to Bocas del Toro, Panama, an area of outstanding marine diversity in the Caribbean.

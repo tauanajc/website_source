@@ -28,6 +28,6 @@ image:
 projects: []
 ---
 
-Spring 2013
+Spring 2013, University of São Paulo
 
 Code BIE5782, [WEBSITE](http://ecologia.ib.usp.br/bie5782/doku.php?id=start)

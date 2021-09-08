@@ -28,10 +28,12 @@ image:
 projects: []
 ---
 
-Spring 2018
+Spring 2018, Harvard Extension School
 
 Code BIOS E-27, [WEBSITE](https://canvas.harvard.edu/courses/35083)
 
 On-campus and/or online.
+
+Instructor: Cassandra Extavour
 
 This course introduces students to the diversity of invertebrates, which are the vast majority of all animals on the planet. We cover the development, adult anatomy, biology, and evolutionary relationships of the main animal phyla including but not limited to sponges, mollusks, annelids, and arthropods. Special emphasis is placed on understanding the similarities and differences in embryonic development, the broad diversity of animal forms and their adaptations to different ecosystems, and how these phenomena shape animal evolution. The aim of this course is to understand animal diversity from a phylogenetic perspective as well as from a developmental and functional morphology point of view, and to be able to understand the evolution and divergence of these features in the context of animal evolution.

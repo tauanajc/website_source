@@ -1,22 +1,26 @@
 # Theme metadata
-name = "Default"
+name = "Tauana"
 
 # Is theme light or dark?
 light = true
 
-# Primary
-primary = "hsl(344°, 89%, 39%)"
+# Primary (text in highlight)
+primary = "#6589CA"
 
 # Menu
-#menu_primary = "#fff"
-#menu_text = "#34495e"
-#menu_text_active = "#2962ff"
-#menu_title = "#2b2b2b"
-menu_primary = "rgb(20, 22, 34)"
-menu_text = "rgba(255,255,255,0.6)"
+menu_primary = "#30233F" # menu background
+menu_text = "#fff"
+menu_text_active = "#B41421"
 menu_title = "#fff"
-menu_text_active = "hsl(344°, 89%, 39%)"
 
 # Home sections
 home_section_odd = "rgb(255, 255, 255)"
 home_section_even = "rgb(247, 247, 247)"
+
+#006C55 #wes_palette Rushmore1 green - nice
+#30233F #wes_palette Rushmore1 dark purple - nice
+#FB271C #wes_palette Rushmore1 bright orange
+#29A3BF #wes_palette FantasticFox1 blue
+#B41421 #wes_palette FantasticFox1 red - nice
+#BFC7F3 #wes_palette GrandBudapest2 violet
+#6589CA #wes_palette GrandBudapest2 purple-blue - nice

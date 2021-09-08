@@ -64,3 +64,10 @@ ignoreFiles = ["\\.ipynb$", ".ipynb_checkpoints$", "\\.Rmd$", "\\.Rmarkdown$", "
   category = "categories"
   publication_type = "publication_types"
   author = "authors"
+
+# Date format (this part did not exist before, I added in Sep 2021
+#to try to update research pages with latest date)
+[frontmatter]
+  #date = ['date', 'publishDate', 'lastmod']
+  lastmod = ['lastmod', ':fileModTime', ':default']
+  #publishDate = ['publishDate', 'date']

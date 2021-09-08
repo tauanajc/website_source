@@ -28,6 +28,6 @@ image:
 projects: []
 ---
 
-Spring 2010
+Spring 2010, University of São Paulo
 
-Code BIZ0213, [WEBSITE](http://marcus.ib.usp.br/biz213/)
+Code BIZ0213, [WEBSITE](https://biz0213.ib.usp.br)

@@ -28,9 +28,11 @@ image:
 projects: []
 ---
 
-Fall 2017
+Fall 2017, Harvard University
 
 Code OEB275r, [WEBSITE](https://canvas.harvard.edu/courses/31068)
+
+Instructor: Scott Edwards
 
 The course will review the recent literature on methods of analysis in phylogenomics and phylogeography, with particular attention to analysis of large-scale data sets; accommodating gene tree heterogeneity; adequacy of models at the level of DNA sequence evolution and demographic history; and estimation of critical parameters of population history, such as phylogenetic relationships, reticulate evolutionary histories, rates of gene flow and species boundaries.  Weekly sessions will consist of presentations and discussions led by students and by international experts, including hands-on sessions working with state-of-the-art software.
 
