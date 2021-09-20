@@ -71,3 +71,12 @@ ignoreFiles = ["\\.ipynb$", ".ipynb_checkpoints$", "\\.Rmd$", "\\.Rmarkdown$", "
   #date = ['date', 'publishDate', 'lastmod']
   lastmod = ['lastmod', ':fileModTime', ':default']
   #publishDate = ['publishDate', 'date']
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+# This whole markup block was added on 20Sep2021
+# For about a year or more, my iframes were not working, e.g. map in Contact
+# Now I found the following: https://stackoverflow.com/a/64561626
+# Which solved the problem. Now can add iframes again
