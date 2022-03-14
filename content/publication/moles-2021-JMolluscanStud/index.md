@@ -6,6 +6,10 @@ authors: ["Moles J", "**Cunha TJ**", "Lemer S", "Combosch D", "Giribet G"]
 publication_types: ["2"]
 abstract: ""
 featured: true
+image:
+  caption: ''
+  focal_point: 'top'
+  preview_only: no
 publication: "*Journal of Molluscan Studies*"
 url_pdf: ""
 doi: "10.1093/mollus/eyab019"
