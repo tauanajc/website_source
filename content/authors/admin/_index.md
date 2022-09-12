@@ -15,7 +15,7 @@ education:
     institution: University of São Paulo
     year: 2011
 
-email: "cunhat@si.edu"
+email: "tcunha@fieldmuseum.org"
 
 interests:
 - Phylogenomics
@@ -27,7 +27,7 @@ interests:
 name: Tauana J. Cunha
 
 organizations:
-- name: Smithsonian Tropical Research Institute
+- name: Field Museum of Natural History
   url: ""
 
 role: Postdoctoral Fellow
@@ -35,7 +35,7 @@ role: Postdoctoral Fellow
 social:
 - icon: envelope-square
   icon_pack: fas
-  link: mailto:cunhat@si.edu #'#contact'
+  link: mailto:tcunha@fieldmuseum.org #'#contact'
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=kUYfYlYAAAAJ
@@ -65,4 +65,8 @@ user_groups:
 ---
 
 
-I am an evolutionary biologist interested in the origin and maintenance of invertebrate diversity, with marine gastropods as my main study system. My research is based on fieldwork and museum collections, comprising phylogenomics, biogeography, population and evolutionary genomics. I'm a Smithsonian Institution Postdoctoral Fellow at [STRI](https://stri.si.edu) in [Rachel Collin's Lab](https://collinlab.weebly.com), with a PhD from Harvard University in [Gonzalo Giribet's Lab](https://giribetgroup.oeb.harvard.edu).
+I am interested in the evolution of invertebrate diversity, especially in the marine realm. My research is centered in the phylogeny, biogeography and genomics of gastropods (snails, limpets and slugs), integrating museum collections and fieldwork.
+
+I am a postdoc at the [Field Museum](https://www.fieldmuseum.org/science/research) in Chicago, and was previously at the [Smithsonian Tropical Research Institute](https://stri.si.edu) in Panama. I did my Ph.D. in [Gonzalo Giribet's Lab](https://giribetgroup.oeb.harvard.edu) at Harvard University, and my B.Sc. at the [University of Sao Paulo](https://www.ib.usp.br).
+
+Major current projects include the assembly of genomes from non-model invertebrates, analyzing the genetic connectivity of snails from the Tropical Eastern Pacific, and investigating how the diverse feeding mechanisms of gastropods have evolved across geological timescales.

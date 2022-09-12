@@ -22,7 +22,7 @@ height = "500px" #""
 
   # Overlay a color or image (optional).
   #   Deactivate an option by commenting out the line, prefixing it with `#`.
-  overlay_color = "#666"  # An HTML color value.
+  overlay_color = "#666"  # An HTML color value: 333, 555
   overlay_img = "headers/P6291261-Japan.jpg"  # Image path relative to your `static/img/` folder.
   overlay_filter = 0.3  # Darken the image. Value in range 0-1.
 
@@ -35,17 +35,18 @@ height = "500px" #""
   #cta_icon = "graduation-cap"
 
 [[item]]
-  overlay_color = "#333"  # An HTML color value.
+  overlay_img = "headers/01-Panama202104-9685.JPG"  # Image path relative to your `static/img/` folder.
+  overlay_filter = 0.2  # Darken the image. Value in range 0-1.
+
+[[item]]
   overlay_img = "headers/Tau-0374.jpg"  # Image path relative to your `static/img/` folder.
-  overlay_filter = 0.3  # Darken the image. Value in range 0-1.
+  overlay_filter = 0.2  # Darken the image. Value in range 0-1.
 
 [[item]]
-  overlay_color = "#555"  # An HTML color value.
-  overlay_img = "headers/IMG_6842.jpg"  # Image path relative to your `static/img/` folder.
-  overlay_filter = 0.3  # Darken the image. Value in range 0-1.
+  overlay_img = "headers/P6280956-Japan.jpg"  # Image path relative to your `static/img/` folder.
+  overlay_filter = 0.2  # Darken the image. Value in range 0-1.
 
 [[item]]
-  overlay_color = "#333"  # An HTML color value.
   overlay_img = "headers/Maldives_dive.jpg"  # Image path relative to your `static/img/` folder.
   overlay_filter = 0.2  # Darken the image. Value in range 0-1.
 
@@ -53,30 +54,25 @@ height = "500px" #""
   #content = "Hover mouse for full video"
   align = "right"  # Choose `center`, `left`, or `right`.
   overlay_img = "headers/IMG_8645.MOV.mp4"  # Image path relative to your `static/img/` folder.
-  overlay_filter = 0.3  # Darken the image. Value in range 0-1.
+  overlay_filter = 0.2  # Darken the image. Value in range 0-1.
 
 [[item]]
-  overlay_color = "#333"  # An HTML color value.
-  overlay_img = "headers/P6280956-Japan.jpg"  # Image path relative to your `static/img/` folder.
-  overlay_filter = 0.3  # Darken the image. Value in range 0-1.
+  overlay_img = "headers/IMG_6842.jpg"  # Image path relative to your `static/img/` folder.
+  overlay_filter = 0.2  # Darken the image. Value in range 0-1.
 
 #[[item]]
-#  overlay_color = "#333"  # An HTML color value.
 #  overlay_img = "headers/IMG_0072.jpg"  # Image path relative to your `static/img/` folder.
 #  overlay_filter = 0.3  # Darken the image. Value in range 0-1.
 
 [[item]]
-  overlay_color = "#333"  # An HTML color value.
   overlay_img = "headers/Taking_photo.png"  # Image path relative to your `static/img/` folder.
-  overlay_filter = 0.3  # Darken the image. Value in range 0-1.
+  overlay_filter = 0.2  # Darken the image. Value in range 0-1.
 
 #[[item]]
-#  overlay_color = "#333"  # An HTML color value.
 #  overlay_img = "headers/DSCF0040-lab.jpg"  # Image path relative to your `static/img/` folder.
 #  overlay_filter = 0.3  # Darken the image. Value in range 0-1.
 
 #[[item]]
-#  overlay_color = "#333"  # An HTML color value.
 #  overlay_img = "headers/dscf0003-animation.gif"  # Image path relative to your `static/img/` folder.
 #  overlay_filter = 0.3  # Darken the image. Value in range 0-1.
 

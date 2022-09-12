@@ -12,7 +12,7 @@ subtitle: Click to see images in larger size.
 ![map](map.pdf)
 
 
-### 2020-2021 Panama, throughout the Pacific Coast
+### 2020-2022 Panama, throughout the Pacific Coast
 
 {{< gallery album="2021-panama" >}}
 
