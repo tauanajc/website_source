@@ -7,9 +7,9 @@ title: Fieldwork
 subtitle: Click to see images in larger size.
 ---
 
-### [Fieldwork localities - click for interactive view](https://www.google.com/maps/d/u/0/embed?mid=1XLF8hCMrkN2owREr7o4Qaq6aIHtIj8IA)
+### [Fieldwork localities - interactive view](https://www.google.com/maps/d/u/0/embed?mid=1XLF8hCMrkN2owREr7o4Qaq6aIHtIj8IA)
 
-![map](map.pdf)
+<!--![map](map.pdf)-->
 
 
 ### 2020-2022 Panama, throughout the Pacific Coast

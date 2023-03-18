@@ -5,3 +5,13 @@ blogdown::build_site()
 blogdown::serve_site()
 
 #install.packages("blogdown")
+
+# starting on new mac:
+#blogdown::find_hugo('all')
+#blogdown::check_hugo()
+#blogdown::check_site()
+
+#blogdown::install_hugo(version = "")
+#blogdown::remove_hugo()
+
+#blogdown::config_netlify()

@@ -65,8 +65,7 @@ user_groups:
 ---
 
 
-I am interested in the evolution of invertebrate diversity, especially in the marine realm. My research is centered in the phylogeny, biogeography and genomics of gastropods (snails, limpets and slugs), integrating museum collections and fieldwork.
+I am interested in the evolution of invertebrate diversity, especially in the marine realm. Major current projects include the assembly of genomes from non-model invertebrates, analyzing the genetic connectivity of snails from the Tropical Eastern Pacific, and investigating how the diverse feeding mechanisms of gastropods have evolved across geological timescales.
 
-I am a postdoc at the [Field Museum](https://www.fieldmuseum.org/science/research) in Chicago, and was previously at the [Smithsonian Tropical Research Institute](https://stri.si.edu) in Panama. I did my Ph.D. in [Gonzalo Giribet's Lab](https://giribetgroup.oeb.harvard.edu) at Harvard University, and my B.Sc. at the [University of Sao Paulo](https://www.ib.usp.br).
+I am a postdoc at the [Field Museum](https://www.fieldmuseum.org/science/research) in Chicago, and was previously at the [Smithsonian Tropical Research Institute](https://stri.si.edu) in Panama. I got my Ph.D. at [Harvard University](https://giribetgroup.oeb.harvard.edu), and my B.Sc. at the [University of Sao Paulo](https://www.ib.usp.br).
 
-Major current projects include the assembly of genomes from non-model invertebrates, analyzing the genetic connectivity of snails from the Tropical Eastern Pacific, and investigating how the diverse feeding mechanisms of gastropods have evolved across geological timescales.
