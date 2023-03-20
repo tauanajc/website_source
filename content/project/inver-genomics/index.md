@@ -23,5 +23,3 @@ url_video: ""
 ---
 
 Coming soon!
-
-Genome gigantism in velvet worms (Onychophora) [(Sato, Cunha et al. 2023 GBE)]({{< ref "/publication/sato-2023-GBE/index.md" >}}).

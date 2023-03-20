@@ -9,6 +9,7 @@ weight = 10  # Order that this section will appear.
 
 title = "Publications"
 subtitle = ""
+#(Google Scholar)[https://scholar.google.com/citations?user=kUYfYlYAAAAJ&hl=en&oi=ao]
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
