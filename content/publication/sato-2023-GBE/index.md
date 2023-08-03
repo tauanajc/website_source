@@ -2,7 +2,7 @@
 title: "Sizing Up the Onychophoran Genome: Repeats, Introns, and Gene Family Expansion Contribute to Genome Gigantism in Epiperipatus broadwayi"
 date: 2023-03-04
 publishDate: 2023-03-04T22:45:55.139763Z
-authors: ["Sato S", "**Cunha TJ**", "De Medeiros BAS", "Khost DA", "Sackton TB", "Giribet G"]
+authors: ["Sato S", "**Cunha TJ**", "de Medeiros BAS", "Khost DA", "Sackton TB", "Giribet G"]
 publication_types: ["2"]
 abstract: ""
 featured: true

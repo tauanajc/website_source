@@ -19,6 +19,8 @@ doi: "10.3390/d15020219"
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects: [ecology]
+projects: [biodiversity]
 ---
 
+
+Check this [Twitter thread](https://twitter.com/tauanajc/status/1621662096260743174?s=20) for an illustrated summary of what we found!

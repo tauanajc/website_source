@@ -11,6 +11,6 @@ tags: ["Abrolhos", "Brazil", "Dictyota", "Phytal macrofauna", "Spatial distribut
 url_pdf: ""
 doi: "10.1016/j.csr.2013.09.001"
 
-projects: [ecology]
+projects: [biodiversity]
 ---
 

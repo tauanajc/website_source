@@ -22,3 +22,5 @@ doi: "10.1093/sysbio/syab071"
 projects: [inver-phylogeny]
 ---
 
+
+Check this [Twitter thread](https://twitter.com/tauanajc/status/1453145755728982021?s=20) for a summary of results and pretty snail pics!

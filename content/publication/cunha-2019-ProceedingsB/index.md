@@ -18,3 +18,5 @@ doi: "10.1098/rspb.2018.2776"
 projects: [inver-phylogeny]
 ---
 
+
+Check this [Twitter thread](https://twitter.com/tauanajc/status/1105839751981076480?s=20) for a highlight on how snails, limpets and slugs are related to each other. Gastropods are about ~100,000 species on water and land, and the most diverse group of animals in the oceans!

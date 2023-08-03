@@ -12,6 +12,10 @@ subtitle: Click to see images in larger size.
 <!--![map](map.pdf)-->
 
 
+### 2023 Canary Islands, La Palma
+
+{{< gallery album="2023-lapalma" >}}
+
 ### 2020-2022 Panama, throughout the Pacific Coast
 
 {{< gallery album="2021-panama" >}}
